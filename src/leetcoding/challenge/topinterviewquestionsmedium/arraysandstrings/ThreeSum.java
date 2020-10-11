@@ -1,4 +1,5 @@
-package leetcoding.challenge.topinterviewquestionsmedium;
+package leetcoding.challenge.topinterviewquestionsmedium.arraysandstrings;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -6,6 +7,13 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * @author ga.omar
+ *
+ * @see <a href=
+ *      "https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/">Question
+ *      Link</a>
+ */
 public class ThreeSum {
 
 	public static void main(String[] args) {

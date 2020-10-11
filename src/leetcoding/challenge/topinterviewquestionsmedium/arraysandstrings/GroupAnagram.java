@@ -1,10 +1,18 @@
-package leetcoding.challenge.topinterviewquestionsmedium;
+package leetcoding.challenge.topinterviewquestionsmedium.arraysandstrings;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author ga.omar
+ *
+ * @see <a href=
+ *      "https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/">Question
+ *      Link</a>
+ */
 public class GroupAnagram {
 
 	public static void main(String[] args) {
